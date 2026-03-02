@@ -8,8 +8,8 @@
 
 ## 🛠️ What I'm Working On
 - [ ] Finishing The Odin Project Foundations
-- [ ] Building my first real project
-- [ ] Learning Git & GitHub properly
+- [x] Building my first project
+- [x] Learning Git & GitHub properly
 
 ---
 
