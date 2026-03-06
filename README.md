@@ -1,6 +1,6 @@
 # Hi, I'm Eniola Adewale
 
-🎯 **Currently Learning:** HTML & CSS via The Odin Project  
+🎯 **Currently Learning:** Javascript via The Odin Project  
 🚀 **Goal:** Become a full-stack web developer  
 🌍 Based in Lagos Nigeria
 
