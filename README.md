@@ -1,15 +1,16 @@
 # Hi, I'm Eniola Adewale
 
-🎯 **Currently Learning:** Javascript via The Odin Project  
-🚀 **Goal:** Become a full-stack web developer  
+🎯 **Currently Learning:** Full Stack Javascript via The Odin Project
+🎯 **Currently Learning:** Golang via Youtube  
+🚀 **Goal:** Become a full-stack developer  
 🌍 Based in Lagos Nigeria
 
 ---
 
 ## 🛠️ What I'm Working On
-- [ ] Finishing The Odin Project Foundations
+- [ ] Full Stack Javascript
+- [x] Finishing The Odin Project Foundations
 - [x] Building my first project
-- [x] Learning Git & GitHub properly
 
 ---
 
