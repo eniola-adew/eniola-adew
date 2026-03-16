@@ -1,7 +1,6 @@
 # Hi, I'm Eniola Adewale
 
 🎯 **Currently Learning:** Full Stack Javascript via The Odin Project\
-🎯 **Currently Learning:** Golang via golangbot.com\
 🚀 **Goal:** Become a cracked software engineer\
 🌍 Based in Lagos Nigeria
 
@@ -9,7 +8,6 @@
 
 ## 🛠️ What I'm Working On
 - [X] Intermediate HTML & CSS
-- [X] Golang
 
 ---
 
